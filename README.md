@@ -6,12 +6,12 @@ where all of your program information (how to run, what is the input/output, and
 I'll give you a template this time, but from here on you'll need to manage this by yourselves. Good luck!
 
 # Rock Paper Scissors
-say something about the assignement, what is this code doing, what is this code's goal..
-  **REPLACE THE ABOVE LINE OBVIOUSLY**
+ The assignement was challenging. 
+ The code allows the user to play in front of the computer the game of "Rock, Paper and Scissors". 
+ The goal of the code is to be able to build the game and play in front of the computer without errors.
 
 ## Who's submitting?
 NAME: sapirga@edu.hac.ac.il
-NEVER! Upload your credentials to github (ID number etc..)
 
 ## Code input\output\ how to run
 What is the input of this code?\
