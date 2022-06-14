@@ -85,7 +85,7 @@ while gameison:
         answerRequest = input("Do you want continue? y/n").lower()
         continueRequest = True
 
-        while answerRequest != "Y" and answerRequest != "n":
+        while answerRequest != "y" and answerRequest != "n":
             print("invalid answer")
             answerRequest = input("Do you want continue? y/n").lower()
 
