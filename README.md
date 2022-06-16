@@ -1,22 +1,56 @@
-# Rock Paper Scissors!
-# Hi and welcome to your first assignment!
-Here, your goal is to create a simple "Rock, Paper, Scissors" game, with all the knowledge youv'e got so far.\
-This is the **README** file. a **README** file is a text, or as you can see here, an "MD" file,\
-where all of your program information (how to run, what is the input/output, and everything you think is nessecary for the understanding of your code).\
-I'll give you a template this time, but from here on you'll need to manage this by yourselves. Good luck!
+#  Game - Rock Paper Scissors!
+ The code allows the user to play against the computer the game of "Rock, Paper and Scissors". 
+ The goal of the code is to be able to build the game and play against of the computer without errors.
 
-# Rock Paper Scissors
- The assignement was challenging. 
- The code allows the user to play in front of the computer the game of "Rock, Paper and Scissors". 
- The goal of the code is to be able to build the game and play in front of the computer without errors.
-
+__________________________________
 ## Who's submitting?
-NAME: sapirga@edu.hac.ac.il
+NAME: Sapir Gavriel.
+E-MAIL: sapirga@edu.hac.ac.il
 
-## Code input\output\ how to run
-What is the input of this code?\
-What is the output of this code?\
-What do I need to do to run it?\
-Give one or two examples of input and output.
+__________________________________
+## Code input\output\how to run
+__________________________________
+# What is the input of this code?
+Player input range 1,3:
+1 = Rock
+2 = Paper
+3 = Scissors
+computer random number.
+Y\N = Ask the computer if it wants to continue for another round.
 
-### This is it! Your assignement instructions are attached in the repository. Good luck!
+__________________________________
+# What is the output of this code?
+- Who win.
+- Who lose.
+- When its draw
+- if you continue or say tanks for play.
+
+__________________________________
+# What do I need to do to run it?
+You need to download PyCharm and click on the green arrow to start the game.
+
+__________________________________
+# Example input|output number 1
+input:
+2
+
+output:
+Hi, you won
+
+# Here I explain the choice
+(2 = Paper. userChoice = 2 computerChoice = 1)
+
+__________________________________
+# Example input|output number 2
+input:
+n
+
+output:
+thank you for playing the game!
+
+# Here I explain the choice
+(Do you want continue? y/n. - y (continue) n (thank you for playing the game!)
+__________________________________
+
+
+
